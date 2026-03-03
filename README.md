@@ -1,3 +1,5 @@
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/idddaffa/idddaffa/output/github-contribution-grid-snake.svg)
 ## Hi there 👋
 
 <!--
