@@ -1,6 +1,9 @@
 ## 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/idddaffa/idddaffa/output/github-contribution-grid-snake.svg)
-## Hi there 👋
+# Hi There! I'm Daffa 👋
+### **Geospatial Analyst & Developer** 🌍
+
+I bridge the gap between complex spatial data and operational efficiency through Python-driven automation.
 
 <!--
 **idddaffa/idddaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
