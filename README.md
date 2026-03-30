@@ -3,7 +3,7 @@
 # Hi There! I'm Daffa 👋
 ### Geospatial Developer & Data Analyst 🌍
 
-I bridge the gap between complex spatial data and operational efficiency through Python-driven automation.
+Bridging the gap between complex spatial data and operational efficiency through Python-driven automation.
 
 <!--
 **idddaffa/idddaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
