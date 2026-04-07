@@ -1,7 +1,10 @@
 ## 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/idddaffa/idddaffa/output/github-contribution-grid-snake.svg)
 
-
+## 🏙️ 3D Contribution Map
+<p align="center">
+  <img src="https://raw.githubusercontent.com/idddaffa/idddaffa/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%">
+</p>
 </p>
 # Hi There! I'm Daffa 👋
 ### Geospatial Developer & Data Analyst 🌍
