@@ -1,9 +1,8 @@
 ## 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/idddaffa/idddaffa/output/github-contribution-grid-snake.svg)
-
 </p>
-# Hi There! I'm Daffa 👋
-### Geospatial Developer & Data Analyst 🌍
+# Hi There! I'm Daffa 👋 #
+### Geospatial Developer & Data Analyst 🌍 ##
 
 Bridging the gap between complex spatial data and operational efficiency through Python-driven automation.
 
