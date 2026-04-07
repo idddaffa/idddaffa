@@ -1,9 +1,7 @@
 ## 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/idddaffa/idddaffa/output/github-contribution-grid-snake.svg)
 
-## 👾 Pacman Runner
-<p align="left">
-  <img src="https://media.giphy.com/media/3o7TKRBB3E7IdVNLm8/giphy.gif" alt="pacman" width="300"/>
+
 </p>
 # Hi There! I'm Daffa 👋
 ### Geospatial Developer & Data Analyst 🌍
